@@ -26,6 +26,7 @@ Soyez attentifs à l'ordre d'import :
 @import url(/src/css/base/main.css);
 @import url(/src/css/base/media.css);
 @import url(/src/css/base/404.css);
+@import url(/src/css/base/index.css);
 
 /* Layout */
 @import url(/src/css/layout/footer.css);

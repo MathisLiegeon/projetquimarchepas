@@ -1,8 +1,9 @@
+/*boxes*/
 * {
     box-sizing: border-box;
 }
 
-
+/*texte*/
 p {
     margin: 0;
 }
@@ -13,24 +14,24 @@ h3 {
     margin: 0;
 }
 
+strong {
+    font-weight: normal;
+}
+
+/*links*/
 a {
     text-decoration: none;
     color: black;
 }
 
-
-li {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
+/*lists*/
 ul {
     margin: 0;
     padding: 0;
 }
 
-
-strong {
-    font-weight: normal;
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
